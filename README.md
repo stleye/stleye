@@ -31,6 +31,3 @@ I have a keen interest in building reliable and performant applications, and I e
 
 Feel free to explore my repositories and connect with me. I'm always open to collaboration and sharing knowledge. Cheers to coding excellence!
 
----
-
-*This README.md was crafted with the assistance of ChatGPT.*
