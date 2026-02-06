@@ -1,33 +1,28 @@
-### Hi there 👋
+# Sebastián Tleye
 
-# Sebastian Tleye - iOS Developer
+Senior Software Engineer · Mobile · Kotlin Multiplatform
 
-Welcome to my GitHub profile! I'm Sebastian Tleye, an enthusiastic iOS Developer with a diverse skill set in various technologies. I am passionate about crafting robust mobile applications with a focus on clean, maintainable, and scalable code.
+## Current work
+I work as a mobile software engineer focused on SDK development and performance-critical systems.
+Currently contributing to mobile measurement SDKs at Ookla.
 
-## About Me
+## Independent work
+I’m part of **[Champa Labs](https://champalabs.com)**, an independent lab where we explore and build software products,
+tools, and experiments — from mobile apps to web platforms — with a strong focus on simplicity,
+robustness, and long-term thinking.
 
-- **Name:** Sebastian Tleye
-- **Role:** iOS Developer
+## Technical interests
+- Kotlin & Kotlin Multiplatform
+- Mobile architecture (Android-first, iOS interop)
+- Networking, measurement, and performance
+- System design and developer tooling
 
-## Technology Stack
+## Beyond code
+Outside of software, I’m interested in:
+- Fitness and physical training
+- Motorcycles and long-distance riding
+- Nature, photography, and quiet places
+- Physics, philosophy, and speculative questions about reality
 
-I'm well-versed in a variety of technologies, including:
-
-- Swift
-- Objective-C
-- Bash
-- Smalltalk
-- Python
-- Javascript
-- C++
-
-## Bio
-
-I'm dedicated to creating high-quality software and specialize in Swift, leveraging both Object-Oriented and Functional Programming paradigms. My commitment to Good Programming Practices is reflected in my codebase, where I prioritize cleanliness, maintainability, and scalability. I adhere to SOLID principles to ensure a robust and flexible architecture.
-
-I have a keen interest in building reliable and performant applications, and I emphasize thorough unit testing in my development process. User experience is a top priority, and I approach design with thoughtful consideration, engaging with UX/UI principles to deliver exceptional interfaces.
-
-## Connect with Me
-
-Feel free to explore my repositories and connect with me. I'm always open to collaboration and sharing knowledge. Cheers to coding excellence!
-
+## Location
+Villa General Belgrano, Córdoba, Argentina
