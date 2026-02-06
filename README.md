@@ -1,20 +1,23 @@
 # Sebastián Tleye
 
-Senior Software Engineer · Mobile · Kotlin Multiplatform
+Senior Software Engineer · iOS · Kotlin Multiplatform
 
 ## Current work
-I work as a mobile software engineer focused on SDK development and performance-critical systems.
-Currently contributing to mobile measurement SDKs at Ookla.
+I work as a mobile software engineer with a strong focus on **iOS development** and
+performance-critical SDKs.
+Currently contributing to mobile measurement SDKs at Ookla, working across iOS and
+Kotlin Multiplatform.
 
 ## Independent work
-I’m part of **[Champa Labs](https://champalabs.com)**, an independent lab where we explore and build software products,
-tools, and experiments — from mobile apps to web platforms — with a strong focus on simplicity,
-robustness, and long-term thinking.
+I’m part of **[ChampaLabs](https://champalabs.com)**, an independent lab where we explore and build
+software products, tools, and experiments — from mobile apps to web platforms — with a strong
+focus on simplicity, robustness, and long-term thinking.
 
 ## Technical interests
+- iOS (Swift, SDK design, performance, system APIs)
 - Kotlin & Kotlin Multiplatform
-- Mobile architecture (Android-first, iOS interop)
-- Networking, measurement, and performance
+- Mobile architecture and cross-platform trade-offs
+- Networking, measurement, and low-level concerns
 - System design and developer tooling
 
 ## Beyond code
