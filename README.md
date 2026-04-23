@@ -16,7 +16,7 @@ focus on simplicity, robustness, and long-term thinking.
 
 Current projects:
 
-- **[Expenses Champ](https://apps.apple.com/us/app/expenses-champ/id6740486539)** ([Android](https://play.google.com/store/apps/details?id=com.champalabs.champatrack)) — expense tracking app with voice commands and AI. Built with Flutter (mobile) and React 19 + Firebase (web).
+- **Expenses Champ** ([iOS](https://apps.apple.com/us/app/expenses-champ/id6740486539), [Android](https://play.google.com/store/apps/details?id=com.champalabs.champatrack)) — expense tracking app with voice commands and AI. Built with Flutter (mobile) and React 19 + Firebase (web).
 - **[Atiendi](https://www.atiendi.com.ar/)** — backend service with WhatsApp Cloud API integration, supporting multi-business onboarding and WhatsApp Business number registration flows.
 
 ## Technical interests
