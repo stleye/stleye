@@ -17,7 +17,7 @@ Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab bu
 
 | Project | Description | Stack |
 |---|---|---|
-| **Salden** | Expense tracking with voice commands and AI | Flutter · React 19 · Firebase |
+| **Salden** ([iOS](https://apps.apple.com/us/app/expenses-champ/id6740486539), [Android](https://play.google.com/store/apps/details?id=com.champalabs.champatrack&hl=en)) | Expense tracking with voice commands and AI | Flutter · React 19 · Firebase |
 | **[Atiendi](https://www.atiendi.com.ar/)** | WhatsApp business automation platform | Node.js · WhatsApp Cloud API |
 
 ## Tech
