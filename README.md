@@ -9,7 +9,7 @@ Senior Software Engineer · iOS · Kotlin Multiplatform
 
 ## What I do
 
-Mobile engineer at **Ookla**, working on the [Speedtest SDK](https://www.speedtest.net) — a unified SDK built with Kotlin Multiplatform targeting Android and iOS. I focus on measurement features, network analysis, and SDK infrastructure.
+Sr. Software Engineer at **Ookla**, working on the [Speedtest SDK](https://www.speedtest.net) — a unified SDK built with Kotlin Multiplatform targeting Android and iOS. I focus on measurement features, network analysis, and SDK infrastructure.
 
 Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab building software products with a focus on simplicity and long-term thinking.
 
