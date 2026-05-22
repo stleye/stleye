@@ -1,37 +1,40 @@
 # Sebastián Tleye
 
+<a href="https://www.linkedin.com/in/sebastiantleye"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://champalabs.com"><img src="https://img.shields.io/badge/ChampaLabs-000000?style=flat&logo=github&logoColor=white"/></a>
+
 Senior Software Engineer · iOS · Kotlin Multiplatform
 
-## Current work
-I work as a mobile software engineer with a strong focus on **iOS development** and
-performance-critical SDKs.
-Currently contributing to the **Speedtest SDK** at Ookla — a unified SDK built with
-Kotlin Multiplatform targeting Android and iOS, working on measurement features, network
-analysis, and SDK infrastructure.
+---
 
-## Independent work
-I’m part of **[ChampaLabs](https://champalabs.com)**, an independent lab where we explore and build
-software products, tools, and experiments — from mobile apps to web platforms — with a strong
-focus on simplicity, robustness, and long-term thinking.
+## What I do
 
-Current projects:
+Mobile engineer at **Ookla**, working on the [Speedtest SDK](https://www.speedtest.net) — a unified SDK built with Kotlin Multiplatform targeting Android and iOS. I focus on measurement features, network analysis, and SDK infrastructure.
 
-- **Expenses Champ** ([iOS](https://apps.apple.com/us/app/expenses-champ/id6740486539), [Android](https://play.google.com/store/apps/details?id=com.champalabs.champatrack)) — expense tracking app with voice commands and AI. Built with Flutter (mobile) and React 19 + Firebase (web).
-- **[Atiendi](https://www.atiendi.com.ar/)** — backend service with WhatsApp Cloud API integration, supporting multi-business onboarding and WhatsApp Business number registration flows.
+Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab building software products with a focus on simplicity and long-term thinking.
 
-## Technical interests
-- iOS (Swift, SDK design, performance, system APIs)
-- Kotlin & Kotlin Multiplatform
-- Mobile architecture and cross-platform trade-offs
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Expenses Champ](https://apps.apple.com/us/app/expenses-champ/id6740486539)** | Expense tracking with voice commands and AI | Flutter · React 19 · Firebase |
+| **[Atiendi](https://www.atiendi.com.ar/)** | WhatsApp business automation platform | Node.js · WhatsApp Cloud API |
+
+## Tech
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+## Interests
+
+- iOS SDK design, performance, and system APIs
+- Kotlin Multiplatform and cross-platform architecture
 - Networking, measurement, and low-level concerns
-- System design and developer tooling
+- Fitness · Motorcycles · Nature · Physics
 
-## Beyond code
-Outside of software, I’m interested in:
-- Fitness and physical training
-- Motorcycles and long-distance riding
-- Nature, photography, and quiet places
-- Physics, philosophy, and speculative questions about reality
+---
 
-## Location
-Villa General Belgrano, Córdoba, Argentina
+📍 Villa General Belgrano, Córdoba, Argentina
