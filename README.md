@@ -9,7 +9,7 @@ Senior Software Engineer · iOS · Kotlin Multiplatform
 
 ## What I do
 
-Currently specializing in **embedded systems**, while staying sharp on iOS and Kotlin Multiplatform.
+Mobile Software Engineer focused on **iOS** and **Kotlin Multiplatform**. Currently starting a Master's in Embedded AI (Inteligencia Artificial Embebida) at the School of Engineering, UBA.
 
 Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab building software products with a focus on simplicity and long-term thinking.
 
@@ -33,6 +33,7 @@ Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab bu
 - iOS SDK design, performance, and system APIs
 - Kotlin Multiplatform and cross-platform architecture
 - Networking, measurement, and low-level concerns
+- Embedded systems and embedded AI (just getting started)
 - Fitness · Motorcycles · Nature · Physics
 
 ---
