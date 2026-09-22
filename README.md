@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/sebastiantleye"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="https://champalabs.com"><img src="https://img.shields.io/badge/ChampaLabs-000000?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/sebastian.tleye.photography"><img src="https://img.shields.io/badge/Photography-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 
 Senior Software Engineer · iOS · Kotlin Multiplatform
 
@@ -34,7 +35,7 @@ Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab bu
 - Kotlin Multiplatform and cross-platform architecture
 - Networking, measurement, and low-level concerns
 - Embedded systems and embedded AI (just getting started)
-- Fitness · Motorcycles · Nature · Physics
+- Fitness · Motorcycles · Nature · Physics · [Photography](https://www.instagram.com/sebastian.tleye.photography)
 
 ---
 
