@@ -10,9 +10,14 @@ Senior Software Engineer · iOS · Kotlin Multiplatform
 
 ## What I do
 
-Mobile Software Engineer focused on **iOS** and **Kotlin Multiplatform**. Currently starting a Master's in Embedded AI (Inteligencia Artificial Embebida) at the School of Engineering, University of Buenos Aires (UBA).
+Mobile Software Engineer focused on **iOS** and **Kotlin Multiplatform**.
 
 Co-founder of **[ChampaLabs](https://champalabs.com)** — an independent lab building software products with a focus on simplicity and long-term thinking.
+
+## Education
+
+- **Licentiate in Computer Science** (6-year program) — School of Exact and Natural Sciences (FCEyN), University of Buenos Aires (UBA)
+- **Master's in Embedded AI** (in progress) — School of Engineering, University of Buenos Aires (UBA)
 
 ## Projects
 
